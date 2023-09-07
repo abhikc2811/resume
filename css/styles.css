@@ -1,0 +1,21 @@
+body    {
+    background-color: rgb(188, 238, 245);
+}
+hr  {
+    border-color: white;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 30%;
+}
+
+h1  {
+    color: #246AD8;
+}
+
+h3  {
+    color: #246AD8;
+}
+
+label   {
+    line-height: 1.5;
+}
